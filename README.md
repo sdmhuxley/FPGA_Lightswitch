@@ -10,3 +10,9 @@ Hardware Used:
 - HM-10 Bluetooth Module
 - SG90 Servo Motor
 - Piezo Buzzer
+
+UML Diagram:
+<img width="1013" height="638" alt="image" src="https://github.com/user-attachments/assets/447e9352-668b-43e4-924a-ede073ec38e2" />
+
+Simple Wiring Diagram:
+<img width="1013" height="353" alt="image" src="https://github.com/user-attachments/assets/5129d9b9-bd62-40f6-acdc-036d6fd9635e" />
